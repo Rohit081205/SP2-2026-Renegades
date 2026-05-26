@@ -1,7 +1,7 @@
 # Sona Power Predict - 2026
 
-# College Name: Sri Krishna College of Technology
-#Team Name: Renegades
+College Name: Sri Krishna College of Technology
+Team Name: Renegades
 
 # Library Analysis for `mymodelfile.py`
 
